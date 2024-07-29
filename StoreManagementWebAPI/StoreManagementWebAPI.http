@@ -1,0 +1,6 @@
+@StoreManagementWebAPI_HostAddress = http://localhost:5269
+
+GET {{StoreManagementWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

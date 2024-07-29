@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "upmztHwu7sInvZhiG4bgEbY3PhTcORIveNFduhlsBdg=",
+  "Source": "StoreManagementWebAPI",
+  "BasePath": "_content/StoreManagementWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
